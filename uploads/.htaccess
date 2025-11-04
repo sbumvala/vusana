@@ -1,0 +1,10 @@
+# Prevent directory listing and block script execution
+Options -Indexes
+
+<FilesMatch "\.(php|php5|php7|phtml|pl|py|jsp|asp|sh|cgi)$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+</IfModule>
