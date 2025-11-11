@@ -1,0 +1,61 @@
+[22-Oct-2025 04:50:27 UTC] PHP Warning:  require_once(/home/vusanafu/public_html/config.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 4
+[22-Oct-2025 04:50:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 4
+[22-Oct-2025 04:54:36 UTC] PHP Warning:  require_once(/home/vusanafu/public_html/config.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 8
+[22-Oct-2025 04:54:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 8
+[22-Oct-2025 07:00:55 Africa/Johannesburg] PHP Warning:  require(/home/vusanafu/public_html/phpmailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 15
+[22-Oct-2025 07:00:55 Africa/Johannesburg] PHP Warning:  require(/home/vusanafu/public_html/phpmailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 15
+[22-Oct-2025 07:00:55 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 15
+[22-Oct-2025 07:02:21 Africa/Johannesburg] PHP Warning:  require(/home/vusanafu/public_html/phpmailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 15
+[22-Oct-2025 07:02:21 Africa/Johannesburg] PHP Warning:  require(/home/vusanafu/public_html/phpmailer/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 15
+[22-Oct-2025 07:02:21 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 15
+[22-Oct-2025 07:24:49 Africa/Johannesburg] PHP Warning:  require_once(/home/vusanafu/public_html/phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/test_phpmailer.php on line 10
+[22-Oct-2025 07:24:49 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/test_phpmailer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/test_phpmailer.php on line 10
+[22-Oct-2025 05:44:55 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/vusanafu/public_html/send_application.php on line 9
+[22-Oct-2025 05:54:05 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 06:09:13 UTC] PHP Warning:  require_once(/home/vusanafu/public_html/config.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 06:09:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 06:12:35 UTC] PHP Warning:  require_once(/home/vusanafu/public_html/../config.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 06:12:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/../config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 06:14:09 UTC] PHP Warning:  require_once(/home/vusanafu/public_html/../config.php): Failed to open stream: No such file or directory in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 06:14:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vusanafu/public_html/../config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vusanafu/public_html/send_application.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 10
+[22-Oct-2025 08:20:11 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function finfo_open() in /home/vusanafu/public_html/send_application.php:144
+Stack trace:
+#0 /home/vusanafu/public_html/send_application.php(184): handle_single_file()
+#1 {main}
+  thrown in /home/vusanafu/public_html/send_application.php on line 144
+[22-Oct-2025 08:30:05 Africa/Johannesburg] Admin email failed: SMTP Error: Could not authenticate.
+[22-Oct-2025 08:30:11 Africa/Johannesburg] Applicant email failed: SMTP Error: Could not authenticate.
+[22-Oct-2025 08:41:58 Africa/Johannesburg] Admin email failed: SMTP Error: Could not authenticate.
+[22-Oct-2025 08:42:04 Africa/Johannesburg] Applicant email failed: SMTP Error: Could not authenticate.
+[23-Oct-2025 07:02:13 Africa/Johannesburg] Admin email failed: SMTP Error: Could not authenticate.
+[23-Oct-2025 07:02:19 Africa/Johannesburg] Applicant email failed: SMTP Error: Could not authenticate.
+[23-Oct-2025 05:12:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/vusanafu/config.php:20
+Stack trace:
+#0 /home/vusanafu/config.php(20): define()
+#1 /home/vusanafu/public_html/send_application.php(10): require_once('/home/vusanafu/...')
+#2 {main}
+  thrown in /home/vusanafu/config.php on line 20
